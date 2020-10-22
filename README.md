@@ -8,7 +8,6 @@ A game description with basic game rules:
 	The Typing Game is a game intended to improve a player's English typing skill in an entertaining and interactive way. Each time, a random word appears on the screen. By 	correctly typing the word, players can win points. They can repeatedly try until they type correctly. To win more points, players need to type as many words as they can 	within the time limit. Players with high scores will be recorded, and they can compete with friends, families, and themselves. With varying levels of difficulties, Typing 	  Game targets users of varying English typing levels. Levels have different time limits and length of words.
 	
 A list of features that you plan to implement:
-
 	1. Generation of random game sets or events
 	Words are saved in three one-dimensional arrays according to their difficulty (i.e. word length). Every time, a random number which corresponds to the index of a word 		array is generated. The program will then print the word at that index, outputting a different random word.
 
