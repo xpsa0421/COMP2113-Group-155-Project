@@ -9,7 +9,7 @@ A game description with basic game rules:
 	
 A list of features that you plan to implement:
 	1. Generation of random game sets or events
-	Words are saved in three one-dimensional arrays according to their difficulty (i.e. word length). Every time, a random number which corresponds to the index of a word 	array is generated. The program will then print the word at that index, outputting a different random word.
+	Words are saved in three one-dimensional arrays according to their difficulty (i.e. word length). Every time, a random number which corresponds to the index of a word 		array is generated. The program will then print the word at that index, outputting a different random word.
 
 2. Data structures for storing game status
 	string 	- user input, username
