@@ -2,7 +2,7 @@
 
 #### A brief identification of the team members:
 juanb0510: Jun Han Bang
-	xpsa0421: Sooa Park
+xpsa0421: Sooa Park
 
 #### A game description with basic game rules:
 The Typing Game is a game intended to improve a player's English typing skill in an entertaining and interactive way. Each time, a random word appears on the screen. By correctly typing the word, players can win points. They can repeatedly try until they type correctly. To win more points, players need to type as many words as they can within the time limit. Players with high scores will be recorded, and they can compete with friends, families, and themselves. With varying levels of difficulties, Typing Game targets users of varying English typing levels. Levels have different time limits and length of words.
