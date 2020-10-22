@@ -2,6 +2,7 @@
 
 #### A brief identification of the team members:
 juanb0510: Jun Han Bang
+
 xpsa0421: Sooa Park
 
 #### A game description with basic game rules:
