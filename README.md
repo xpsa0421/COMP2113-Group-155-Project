@@ -1,6 +1,6 @@
 # COMP2113-Project
 
-A brief identification of the team members.
+A brief identification of the team members:
 juanb0510: Jun Han Bang
 xpsa0421: Sooa Park
 
