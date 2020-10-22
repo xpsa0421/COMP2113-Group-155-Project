@@ -21,7 +21,7 @@ A list of features that you plan to implement:
 
 4. File input/output (e.g., for loading/saving game status)
 	Arrays of words are saved in a separate words file. For random word generation, the words file becomes the input file. One word is displayed on the screen at a time.
-	Username and score for each game are saved in one separate scores file. For high score calculation, the scores file becomes the input. The list of high scores is then displayed.
+	Username and score for each game are saved in one separate scores file. For high score calculation, the scores file becomes the input. The list of high scores is then 		displayed.
 
 5. Program codes in multiple files
 	The main code is saved in a different file from supplementary codes such as codes that are used to calculate high scores as they are required at different times. Data such 	    as words, usernames, and scores are also saved in different files.
