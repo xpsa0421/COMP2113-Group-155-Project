@@ -40,4 +40,4 @@ The program includes a non-standard header <unistd.h> in order to use the sleep(
 
 
 ### Compilation and execution instructions
-Put all the files at one location. Open terminal and type "make typing_game" to generate the executable typing_game. Type "./typing_game" to start the program. Type "make clean" to remove the executable gamefile and object codes.
+Put all the files at one location. Open terminal at the location and type "make typing_game" to generate the executable typing_game. Type "./typing_game" to start the program. Type "make clean" to remove the executable gamefile and object codes.
