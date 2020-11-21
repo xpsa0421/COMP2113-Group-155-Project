@@ -1,4 +1,4 @@
-# COMP2113-Project
+# COMP2113 Group Project (Group 155)
 
 ### A brief identification of the team members:
 juanb0510: Jun Han Bang 3035663033  <br />xpsa0421: Sooa Park 3035666401
